@@ -9,9 +9,4 @@ This repository contains the final report that has been prepared for our CSE470 
 
 **Team Members**
 
-Our team consists of 4 members. Each of them had their own responsibility to contribute for the project. Since, Git was not used to track the contributions and changes, this repository contains no information of the changes of the project files. The members were:
-
--Bastob
--Nusayer
--Rafiul
--Shojib
+Our team consists of 4 members. Each of them had their own responsibility to contribute for the project. Since, Git was not used to track the contributions and changes, this repository contains no information of the changes of the project files. 
